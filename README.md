@@ -10,6 +10,7 @@ Camera Effects
 
 This is my Camera Effects project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Dalton
+](https://github.com/daltonreagan/daltonreagan.github.io/blob/master/Dalton.PNG?raw=true "Optional Title")
 
 ***
